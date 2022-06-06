@@ -96,7 +96,7 @@
     "@angular-devkit/architect" "0.1400.0"
     "rxjs" "6.6.7"
 
-"@angular-devkit/core@14.0.0":
+"@angular-devkit/core@^14.0.0", "@angular-devkit/core@14.0.0":
   "integrity" "sha512-xQXpNbIeBjnbY68OFkrpFm6v7xlmTLFk6zGPIkI4T/hrqT2kNmg0y1/FcN6yMBgCEC9WVWR8SHGaPWrc5VVZMw=="
   "resolved" "https://registry.npmjs.org/@angular-devkit/core/-/core-14.0.0.tgz"
   "version" "14.0.0"
